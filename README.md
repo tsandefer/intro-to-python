@@ -6,10 +6,9 @@ Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
-- Bathrooms: Behind you down the hall to the left
-- Kitchen outside back classroom door with Coffee & Tea!
-- Snacks + water in back of room
+- WIFI: 'Galvanize Guest Platte` | Password: beapineapple
+- Restrooms: Behind you down the hall to the right
+- Kitchen outside with Coffee,Tea, and Pizza!
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of development with Python.
@@ -57,16 +56,7 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 
 ## About me:
-I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. In the past decade I've worked as a software and hardware engineer with mostly with Startups and Agencies in Seattle and Central Florida. I love technology! I'm currently learning more about Deep Learning & Computer Vision. If you're looking for a job or next steps in learning, let me know!
 
-*caveat* I'm not an Galvanize instructor, They have much more industry experience and are better at teaching difficult topics!
-
-If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
-
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
 
 
@@ -724,9 +714,8 @@ What are some ideas for improvements?
 
 ### Keep learning!
 
-[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
 
-More learning resources:
+Learning resources:
 
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
@@ -747,11 +736,10 @@ More learning resources:
 
 We host so many events! check out our [calendar](https://www.galvanize.com/events)
 
-Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+Visit the [Learn to code Denver and Colorado Data Science](https://www.meetup.com/learn-to-code-colorado/) (https://www.meetup.com/Colorado-Data-Science/) meetup for all upcoming events.
 
-[JavaScript Mini Bootcamp: Fundamentals II](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-ii-tickets-54008664369) - 1/26/19 10am - 4:30pm
 
-[Web Scraping with Python](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-tickets-540100886292) - 1/31/19 6:30 - 8:30pm
+[Web Scraping with Python](https://www.eventbrite.com/e/web-scraping-with-python-tickets-56377132521) 2hour workshop! 
 
 ## What is Galvanize?
 ###### We are a community!
@@ -759,13 +747,14 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 1/22/19 - 4/19/19
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/9/19 - 5/17/19
+- [Data Science](https://www.galvanize.com/data-science)
+- [Software Engineer](https://www.galvanize.com/web-development)
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Digital Marketing with Data](
+- [Python Fundamentals](
+- [Introduction to Data Science] (
 
 #### Co-working Space
 
@@ -778,12 +767,11 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
 
-- Website: [sageelliott.com](http://sageelliott.com/)
-- Twitter: [@sagecodes](https://twitter.com/@sagecodes)
-- LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
-- Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+-LinkedIn 
+-Email 
 
-Questions about education at Galvanize SF email [learn@galvanize.com](mailto:learn@galvanize.com)
+
+Questions about education at Galvanize email [travis@galvanize.com](travis.com
 
 
 
