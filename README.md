@@ -6,7 +6,7 @@ Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
 
-- WIFI: 'Galvanize Guest Platte` | Password: beapineapple
+- WIFI: 'GEvents` | Password: GEvents1644
 - Restrooms: Behind you down the hall to the right
 - Kitchen outside with Coffee,Tea, and Pizza!
 
