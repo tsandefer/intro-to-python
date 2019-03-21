@@ -2,7 +2,7 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **py.sage.codes**
+Get to this repo by typing in URL: **https://github.com/thomas-bell/intro-to-python**
 
 ### FAQ: 
 
