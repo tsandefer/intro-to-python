@@ -57,6 +57,8 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 ## About me:
 
+Kevin Kaltenbacher CFA, CFP - associate data science instructor - data scientist 
+https://www.linkedin.com/in/kevin-kaltenbacher/
 
 
 
@@ -719,17 +721,13 @@ Learning resources:
 
 - [Galvanize Data Science Prep Course](https://www.galvanize.com/data-science-prep) - FREE | study at your own pace
 
+- [Galvanize Data Science Premium Prep] (https://www.galvanize.com/data-science/prep/premium-prep-registration) - 250$ | Receive live online support and personal progress updates
+
 - [w3schools](https://www.w3schools.com/python/default.asp) | Free
 
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Free
 
 - [codecademy: learn-python](https://www.codecademy.com/learn/learn-python) | Free
-
-
-- [Treehouse: Learn Python Track](https://teamtreehouse.com/tracks/learn-python) | Paid
-
-- [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
-
 
 
 ## Upcoming Events!
